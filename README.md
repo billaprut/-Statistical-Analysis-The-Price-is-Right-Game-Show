@@ -1,4 +1,4 @@
-# -Statistical-Analysis-The-Price-is-Right-Game-Show
+# Statistical-Analysis-The-Price-is-Right-Game-Show
 
 Developed a Python-based simulation for analyzing the "Showcase Showdown" event of the iconic game show "The Price is Right." The project involved creating functions to simulate the game's wheel-spinning mechanics, rules adherence, and win-lose scenarios. The key features included:
 
